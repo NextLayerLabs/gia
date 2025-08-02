@@ -1,0 +1,17 @@
+.agent-verification-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  max-width: 400px;
+}
+
+.agent-verification-form label {
+  display: flex;
+  flex-direction: column;
+  font-weight: 500;
+}
+
+.agent-verification-form .status {
+  margin-top: 1rem;
+  font-weight: bold;
+}
